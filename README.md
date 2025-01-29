@@ -10,7 +10,7 @@ Name your repository using the following format:
 - **&lt;Member Name&gt;**: &lt;Email Address&gt; ; &lt;Github ID&gt;
 
 ## TA
-&lt;Name of your group's TA&gt;
+&lt;Mutaz&gt;
 
 ## Objectives
 &lt;Description of what your project is about, your key functionalities, tech stacks used, etc. &gt;
